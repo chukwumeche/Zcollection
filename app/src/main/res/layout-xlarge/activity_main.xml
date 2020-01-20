@@ -150,7 +150,7 @@
         android:layout_width="378dp"
         android:layout_height="52dp"
         android:layout_marginTop="40dp"
-        android:background="#c6512f"
+        android:background="#D9C05C2C"
         android:text="@string/customize_dashboard"
         android:textColor="#FDFFFFFF"
         android:textSize="24sp"
